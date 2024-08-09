@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning MSc Data Science at the London School of Economics 
--->
+🌱 I am Ibtesam, currently studying MSc Data Science at the London School of Economics and Political Science 
+🏀 Interested in all things Python and Data Science!
+
 
 
 <!--
